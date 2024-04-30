@@ -7,7 +7,7 @@
 # Install
 
 ```js
-npm install react-native-slack-login --save
+npm install react-native-slacklogin --save
 ```
 
 * How to get Client ID and Client Secret of slack?
@@ -28,7 +28,7 @@ after that, you must complete steps in `Basic Information`
 # Usage:
 
 ```javascript
-import SlackLogin from 'react-native-slack-login'
+import SlackLogin from 'react-native-slacklogin'
 <View>
     <TouchableOpacity onPress={()=> this.slackLogin.show()}>
         <Text style={{color: 'white'}}>Login</Text>
