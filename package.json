@@ -1,5 +1,5 @@
 {
-  "name": "react-native-slacklogin",
+  "name": "@maazyousafzai/react-native-slacklogin",
   "version": "1.0.0",
   "description": "React Native slack Login, a simple slack login library for React Native",
   "main": "SlackLogin.js",
